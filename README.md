@@ -31,7 +31,7 @@ Create a landing page for **HackSphere 2025**, a global 48-hour hackathon bringi
 - Feel free to add **extra sections** like FAQs, Schedule, Partners, or Contact if you’d like.
 - No backend is required – keep it front-end only.
 - You **can use AI (e.g., ChatGPT)** or **Google** to help with ideas, design, or code.
-- Keep it **simple, clean, and responsive**.
+- Keep it **simple and clean**.
 
 ---
 
