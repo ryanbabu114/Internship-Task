@@ -27,7 +27,7 @@ Create a landing page for **HackSphere 2025**, a global 48-hour hackathon bringi
 
 ## 💡 Guidelines
 
-- You can use **any tech stack** (HTML/CSS, React, Vue, Tailwind CSS, Bootstrap, etc.).
+- You can use **any tech stack** of your choice.
 - Feel free to add **extra sections** like FAQs, Schedule, Partners, or Contact if you’d like.
 - No backend is required – keep it front-end only.
 - You **can use AI (e.g., ChatGPT)** or **Google** to help with ideas, design, or code.
