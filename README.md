@@ -1,18 +1,17 @@
-# 🚀 HackSphere 2025 – Landing Page Challenge
+# 🚀 Internship Task – Landing Page Challenge
 
-Welcome to the **HackSphere 2025 Landing Page Task**!  
 Design a beautiful, responsive landing page for our fictional global hackathon event using **any tech stack** of your choice. This is your chance to get creative while following a basic brief.
 
 ---
 
 ## 📝 Task Description
 
-Create a landing page for **HackSphere 2025**, a global 48-hour hackathon bringing together developers, designers, and creators.
+Create a landing page for our fictional hackathon - **HackSphere 2025**, a global 48-hour hackathon bringing together developers, designers, and creators.
 
 ### 🎯 Required Sections
 
 #### 1. 🔥 Hero Section
-- Event Name: `HackSphere 2025`
+- Event Name: `HackSphere 2025`(fictional)
 - Tagline: _“Code. Create. Conquer.”_
 - Event Date & Location: `June 20–22, 2025 – Online`
 - CTA Button: **Register Now**
